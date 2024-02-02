@@ -1,5 +1,5 @@
 # Road-Accident-Analysis
-
+![alt text](image/accident.png.jpg)
 ## Table of contents
 - [Project Overview](#project-overview)
    - [Goal](#goal)
@@ -26,17 +26,23 @@ The goal of this project is to analyze road accident data and cover significant 
 ## KPI Analysis
 The total casualties by accident severity for current year and year-on-year growth in fatal casualties, serious casualties, and slight casualties.
 
-- Fatal Casualties: The total number of casualties that led to death are 2,855, leading to year-on-year decrease of 26%.
+*Fatal Casualties*
 
-![Alt text](Images/Fatal.PNG)
+ The total number of casualties that led to death are 2,855, leading to year-on-year decrease of 26%.
 
-- Serious Casualties: There are total number of 27,045 people who sustained serious injury, and the road accident with respect to last year decreases to 16%.
+![alt text](image/Fatal.PNG)
 
-![Alt text](Images/Serious.PNG)
+*Serious Casualties*
 
-- Slight Casualties: 165,837 people sustained minor injuries and the year-on-year casualties with respect to last year drops to 10%.
+There are total number of 27,045 people who sustained serious injury, and the road accident with respect to last year decreases to 16%.
 
-![Alt text](Images/Slight.PNG)
+![alt text](image/Serious.PNG)
+
+*Slight Casualties*
+
+ 165,837 people sustained minor injuries and the year-on-year casualties with respect to last year drops to 10%.
+
+![alt text](image/Slight.PNG)
 
 
 
@@ -46,8 +52,6 @@ The total casualties by accident severity for current year and year-on-year grow
 ## Findings
 
 Factors of Casualties
-![Alt text](Images/All.png)
-
 
 The Total Accident and Casualties are 144,419 and 195,737 respectively, when comparing 2022 to 2021, the year of growth of accident decreased to 11% respectively. This means if the year-on-year total accident is decreasing, accidents are also decreasing.
 
@@ -60,6 +64,8 @@ The Total Accident and Casualties are 144,419 and 195,737 respectively, when com
 - *Casualties by Road type*: Out of all the road type, single carriageway has the highest casualties; It has more than 73% of accident. The overall risk of death and serious injury to road-users is much greater on single-carriageway than dual carriageway.
 
 - *Casualties by Location*: Barnet recorded the highest number of casualties.
+
+![alt text](image/All.png)
 
 
 
